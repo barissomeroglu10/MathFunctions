@@ -18,7 +18,7 @@ int main()
 	cout << "Mutlak Deger -6: " << abs(-6) << endl;
 	cout << "6 uzeri 3: " << pow(6, 3) << endl;
 
-	cin.get(); // this will wait 
+	cin.get(); // this will wait to end the code until user press ant button.
 
 	return 0;
 }
